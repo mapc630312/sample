@@ -1,0 +1,16 @@
+
+
+@font-face{
+	    font-family: Au;
+		src: url(".//fonts/Achafita.ttf");
+
+
+}
+
+body
+{
+	font-family: Au;
+	font-size:38px;
+}
+
+
